@@ -1,0 +1,10 @@
+{
+  "name": "mal-gistor",
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/node"
+    }
+  ]
+}
